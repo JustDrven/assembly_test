@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+main.o
+*.compiler
+*.run
+
+build/
